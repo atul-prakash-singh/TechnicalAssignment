@@ -1,7 +1,7 @@
 # TechnicalAssignment
 
 ```
-[Xebia - Technical Assignment]
+[Technical Assignment]
 ```
 This application consumes NY TIMES Public api and displays all most popular news articles, user see details by clicking on respective news articles.
 
@@ -9,11 +9,11 @@ This application consumes NY TIMES Public api and displays all most popular news
 
 ## NYT Most Popular Article Master Screen
 
-<img src="https://github.com/atulprakash07/TechnicalAssignment/blob/master/screenshot/screen_article_master.png" width="250"/>
+<img src="https://github.com/atul-prakash-singh/TechnicalAssignment/blob/master/screenshot/screen_article_master.png" width="250"/>
 
 ## NYT Most Popular Article Detail Screen
 
-<img src="https://github.com/atulprakash07/TechnicalAssignment/blob/master/screenshot/screen_article_detail.png" width="250"/>
+<img src="https://github.com/atul-prakash-singh/TechnicalAssignment/blob/master/screenshot/screen_article_detail.png" width="250"/>
 
 ## Overall Application Design
 
